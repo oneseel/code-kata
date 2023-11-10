@@ -1,4 +1,4 @@
-package level1_7; // 두 수의 나눗셈
+package level1.level1_7; // 두 수의 나눗셈
 
 class Solution {
     public int solution(double num1, double num2) {

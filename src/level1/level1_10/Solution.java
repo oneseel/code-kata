@@ -1,4 +1,4 @@
-package level1_10;
+package level1.level1_10;
 
 class Solution {
     public double solution(int[] numbers) {

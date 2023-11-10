@@ -1,4 +1,4 @@
-package level1_8; // 각도기
+package level1.level1_8; // 각도기
 
 class Solution {
     public int solution(int angle) {

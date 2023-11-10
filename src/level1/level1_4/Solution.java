@@ -1,4 +1,4 @@
-package level1_4; // 나이 출력
+package level1.level1_4; // 나이 출력
 
 class Solution {
     public int solution(int age) {
