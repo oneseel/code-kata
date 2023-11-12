@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0f1e24c-2b44-4acf-a982-49b63844f3ff" name="Changes" comment="level 2-5" />
+    <list default="true" id="b0f1e24c-2b44-4acf-a982-49b63844f3ff" name="Changes" comment="level 2-7">
+      <change afterPath="$PROJECT_DIR$/src/level2/level2_8/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level2/level2_9/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,6 +88,8 @@
       <workItem from="1699510117370" duration="2142000" />
       <workItem from="1699513123590" duration="63000" />
       <workItem from="1699579273998" duration="3520000" />
+      <workItem from="1699685997179" duration="3224000" />
+      <workItem from="1699757629292" duration="1107000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -109,7 +115,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699582959784</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="level 2-7">
+      <option name="closed" value="true" />
+      <created>1699689299301</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1699689299301</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,6 +144,7 @@
     <MESSAGE value="init commit" />
     <MESSAGE value="level 1" />
     <MESSAGE value="level 2-5" />
-    <option name="LAST_COMMIT_MESSAGE" value="level 2-5" />
+    <MESSAGE value="level 2-7" />
+    <option name="LAST_COMMIT_MESSAGE" value="level 2-7" />
   </component>
 </project>
