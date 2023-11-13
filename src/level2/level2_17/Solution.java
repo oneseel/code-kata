@@ -1,4 +1,4 @@
-package level2.level2_7; // 자연수 뒤집어 배열로 만들기
+package level2.level2_17; // 자연수 뒤집어 배열로 만들기
 
 class Solution {
     public int[] solution(long n) {

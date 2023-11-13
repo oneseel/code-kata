@@ -1,4 +1,4 @@
-package level2.level2_5; // 나머지가 1이 되는 수 찾기
+package level2.level2_15; // 나머지가 1이 되는 수 찾기
 
 import java.util.ArrayList;
 import java.util.List;

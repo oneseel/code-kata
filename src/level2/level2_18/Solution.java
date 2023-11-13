@@ -1,4 +1,4 @@
-package level2.level2_8; // 문자열을 정수로 바꾸기
+package level2.level2_18; // 문자열을 정수로 바꾸기
 
 class Solution {
     public int solution(String s) {

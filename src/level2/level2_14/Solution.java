@@ -1,4 +1,4 @@
-package level2.level2_4; // 약수의 합
+package level2.level2_14; // 약수의 합
 
 class Solution {
     public int solution(int n) {

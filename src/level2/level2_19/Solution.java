@@ -1,4 +1,4 @@
-package level2.level2_9; // 정수 제곱근 판별
+package level2.level2_19; // 정수 제곱근 판별
 
 class Solution {
     public long solution(long n) {

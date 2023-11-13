@@ -1,4 +1,4 @@
-package level2.level2_6; // x만큼 간격이 있는 n개의 숫자
+package level2.level2_16; // x만큼 간격이 있는 n개의 숫자
 
 class Solution {
     public long[] solution(int x, int n) {
