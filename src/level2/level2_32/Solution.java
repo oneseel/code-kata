@@ -1,4 +1,4 @@
-package level2.level2_32;
+package level2.level2_32; // 내적
 
 class Solution {
     public int solution(int[] a, int[] b) {

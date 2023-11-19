@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0f1e24c-2b44-4acf-a982-49b63844f3ff" name="Changes" comment="level 2-29">
+    <list default="true" id="b0f1e24c-2b44-4acf-a982-49b63844f3ff" name="Changes" comment="level 2-32">
+      <change afterPath="$PROJECT_DIR$/src/level2/level2_33/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level2/level2_34/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level2/level2_35/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level2/level2_36/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level2/level2_32/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level2/level2_32/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,6 +124,10 @@
       <workItem from="1700092502918" duration="4472000" />
       <workItem from="1700110610274" duration="3449000" />
       <workItem from="1700115022792" duration="142000" />
+      <workItem from="1700179426132" duration="3542000" />
+      <workItem from="1700220772792" duration="171000" />
+      <workItem from="1700278436635" duration="2804000" />
+      <workItem from="1700361610312" duration="3644000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -192,7 +201,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700096120775</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="level 2-32">
+      <option name="closed" value="true" />
+      <created>1700182808828</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1700182808828</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,6 +235,7 @@
     <MESSAGE value="level 2-21" />
     <MESSAGE value="level 2-26" />
     <MESSAGE value="level 2-29" />
-    <option name="LAST_COMMIT_MESSAGE" value="level 2-29" />
+    <MESSAGE value="level 2-32" />
+    <option name="LAST_COMMIT_MESSAGE" value="level 2-32" />
   </component>
 </project>
