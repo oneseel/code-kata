@@ -1,4 +1,4 @@
-package level3.level3_42;
+package level3.level3_42; // 삼총사
 
 class Solution {
     public int solution(int[] number) {

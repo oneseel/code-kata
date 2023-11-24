@@ -4,11 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0f1e24c-2b44-4acf-a982-49b63844f3ff" name="Changes" comment="level 2-36">
-      <change afterPath="$PROJECT_DIR$/src/level2/level2_40/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/level3/level3_41/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/level3/level3_42/Solution.java" afterDir="false" />
+    <list default="true" id="b0f1e24c-2b44-4acf-a982-49b63844f3ff" name="Changes" comment="level 3-42">
+      <change afterPath="$PROJECT_DIR$/src/level3/level3_43/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level3/level3_44/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level3/level3_45/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level3/level3_46/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level3/level3_47/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level3/level3_48/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level3/level3_49/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level3/level3_50/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level3/level3_42/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level3/level3_42/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +134,10 @@
       <workItem from="1700361610312" duration="4122000" />
       <workItem from="1700439189213" duration="3964000" />
       <workItem from="1700578826986" duration="803000" />
-      <workItem from="1700612301318" duration="1879000" />
+      <workItem from="1700612301318" duration="3106000" />
+      <workItem from="1700664977808" duration="2813000" />
+      <workItem from="1700697351714" duration="5439000" />
+      <workItem from="1700714335810" duration="1483000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -226,7 +235,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700442187858</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="level 3-42">
+      <option name="closed" value="true" />
+      <created>1700614563319</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1700614563319</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -254,6 +271,7 @@
     <MESSAGE value="level 2-29" />
     <MESSAGE value="level 2-32" />
     <MESSAGE value="level 2-36" />
-    <option name="LAST_COMMIT_MESSAGE" value="level 2-36" />
+    <MESSAGE value="level 3-42" />
+    <option name="LAST_COMMIT_MESSAGE" value="level 3-42" />
   </component>
 </project>
