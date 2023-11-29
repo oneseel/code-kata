@@ -4,17 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0f1e24c-2b44-4acf-a982-49b63844f3ff" name="Changes" comment="level 3-42">
-      <change afterPath="$PROJECT_DIR$/src/level3/level3_43/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/level3/level3_44/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/level3/level3_45/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/level3/level3_46/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/level3/level3_47/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/level3/level3_48/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/level3/level3_49/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/level3/level3_50/Solution.java" afterDir="false" />
+    <list default="true" id="b0f1e24c-2b44-4acf-a982-49b63844f3ff" name="Changes" comment="level 4-52">
+      <change afterPath="$PROJECT_DIR$/src/level3/level3_53/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level3/level3_54/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level3/level3_55/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level3/level3_56/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level3/level3_57/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level3/level3_42/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level3/level3_42/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level3/level3_41/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level3/level3_41/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,6 +135,14 @@
       <workItem from="1700664977808" duration="2813000" />
       <workItem from="1700697351714" duration="5439000" />
       <workItem from="1700714335810" duration="1483000" />
+      <workItem from="1700784922438" duration="2987000" />
+      <workItem from="1700823703156" duration="855000" />
+      <workItem from="1700916009675" duration="619000" />
+      <workItem from="1700992244678" duration="1819000" />
+      <workItem from="1701043497525" duration="6879000" />
+      <workItem from="1701080865033" duration="597000" />
+      <workItem from="1701129514688" duration="4055000" />
+      <workItem from="1701136244482" duration="92000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -243,7 +248,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700614563319</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="level 4-52">
+      <option name="closed" value="true" />
+      <created>1700787578873</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1700787578873</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -272,6 +285,7 @@
     <MESSAGE value="level 2-32" />
     <MESSAGE value="level 2-36" />
     <MESSAGE value="level 3-42" />
-    <option name="LAST_COMMIT_MESSAGE" value="level 3-42" />
+    <MESSAGE value="level 4-52" />
+    <option name="LAST_COMMIT_MESSAGE" value="level 4-52" />
   </component>
 </project>

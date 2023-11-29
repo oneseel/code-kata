@@ -1,4 +1,4 @@
-package level3.level3_41;
+package level3.level3_41; // 이상한 문자 만들기
 
 class Solution {
     public String solution(String s) {
