@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0f1e24c-2b44-4acf-a982-49b63844f3ff" name="Changes" comment="level 3-63">
-      <change afterPath="$PROJECT_DIR$/src/level3/level3_64/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/level4/level4_65/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/level4/level4_66/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/level4/level4_67/Solution.java" afterDir="false" />
+    <list default="true" id="b0f1e24c-2b44-4acf-a982-49b63844f3ff" name="Changes" comment="level 4-66">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level4/level4_67/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level4/level4_67/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +78,7 @@
       <recent name="level1_9" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.level4.level4_66.Solution">
+  <component name="RunManager" selected="Application.Solution">
     <configuration name="Solution$Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="level4.level4_65.Solution$Main2" />
       <module name="code-kata" />
@@ -149,9 +146,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.level4.level4_66.Solution" />
         <item itemvalue="Application.level3.level3_64.Solution" />
-        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.level4.level4_65.Solution$Main" />
         <item itemvalue="Application.Solution$Main2" />
       </list>
@@ -219,7 +216,9 @@
       <workItem from="1702339039305" duration="4212000" />
       <workItem from="1702349531109" duration="678000" />
       <workItem from="1702351666968" duration="35000" />
-      <workItem from="1702425631202" duration="2707000" />
+      <workItem from="1702425631202" duration="3600000" />
+      <workItem from="1702430320850" duration="307000" />
+      <workItem from="1702512189139" duration="1605000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -357,7 +356,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702255433865</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="level 4-66">
+      <option name="closed" value="true" />
+      <created>1702429184657</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1702429184658</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -390,6 +397,7 @@
     <MESSAGE value="level 3-58" />
     <MESSAGE value="level 3-60" />
     <MESSAGE value="level 3-63" />
-    <option name="LAST_COMMIT_MESSAGE" value="level 3-63" />
+    <MESSAGE value="level 4-66" />
+    <option name="LAST_COMMIT_MESSAGE" value="level 4-66" />
   </component>
 </project>
