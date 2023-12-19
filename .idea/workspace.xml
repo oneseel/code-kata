@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0f1e24c-2b44-4acf-a982-49b63844f3ff" name="Changes" comment="level 4-68">
-      <change afterPath="$PROJECT_DIR$/src/level4/level4_69/Solution.java" afterDir="false" />
+    <list default="true" id="b0f1e24c-2b44-4acf-a982-49b63844f3ff" name="Changes" comment="level 4-69">
+      <change afterPath="$PROJECT_DIR$/src/level4/level4_70/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/level4/level4_69/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level4/level4_69/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,21 +49,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "extract.method.default.visibility": "private",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/suno/Desktop/jpa",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/suno/Desktop/jpa&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\suno\Desktop\code-kata\src\level1_6" />
@@ -79,26 +80,13 @@
       <recent name="level1_9" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.level4.level4_69.Solution">
+  <component name="RunManager" selected="Application.level4.level4_70.Solution">
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="level4.level4_67.Solution" />
       <module name="code-kata" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="level4.level4_67.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="level3.level3_64.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level3.level3_64.Solution" />
-      <module name="code-kata" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="level3.level3_64.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,13 +133,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="level4.level4_70.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level4.level4_70.Solution" />
+      <module name="code-kata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="level4.level4_70.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.level4.level4_70.Solution" />
         <item itemvalue="Application.level4.level4_69.Solution" />
         <item itemvalue="Application.level4.level4_68.Solution" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.level4.level4_66.Solution" />
-        <item itemvalue="Application.level3.level3_64.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -223,7 +224,10 @@
       <workItem from="1702600004577" duration="3208000" />
       <workItem from="1702616725968" duration="1000" />
       <workItem from="1702715431597" duration="20000" />
-      <workItem from="1702792898128" duration="2026000" />
+      <workItem from="1702792898128" duration="4533000" />
+      <workItem from="1702857841812" duration="598000" />
+      <workItem from="1702877853219" duration="16000" />
+      <workItem from="1702944127610" duration="1584000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -385,7 +389,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702602611923</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="level 4-69">
+      <option name="closed" value="true" />
+      <created>1702795247250</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1702795247250</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -421,6 +433,7 @@
     <MESSAGE value="level 4-66" />
     <MESSAGE value="level 4-67" />
     <MESSAGE value="level 4-68" />
-    <option name="LAST_COMMIT_MESSAGE" value="level 4-68" />
+    <MESSAGE value="level 4-69" />
+    <option name="LAST_COMMIT_MESSAGE" value="level 4-69" />
   </component>
 </project>

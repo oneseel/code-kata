@@ -1,4 +1,4 @@
-package level4.level4_69;
+package level4.level4_69; // 성격 유형 검사하기
 
 class Solution {
   public String solution(String[] survey, int[] choices) {
