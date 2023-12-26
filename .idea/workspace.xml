@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0f1e24c-2b44-4acf-a982-49b63844f3ff" name="Changes" comment="level 4-69">
-      <change afterPath="$PROJECT_DIR$/src/level4/level4_70/Solution.java" afterDir="false" />
+    <list default="true" id="b0f1e24c-2b44-4acf-a982-49b63844f3ff" name="Changes" comment="level 4-70">
+      <change afterPath="$PROJECT_DIR$/src/level4/level4_71/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level4/level4_72/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level4/level4_73/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level4/level4_74/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level4/level4_75/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level4/level4_76/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level4/level4_69/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level4/level4_69/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,13 +84,13 @@
       <recent name="level1_9" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.level4.level4_70.Solution">
+  <component name="RunManager" selected="Application.level4.level4_76.Solution">
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level4.level4_67.Solution" />
+      <option name="MAIN_CLASS_NAME" value="level4.level4_73.Solution" />
       <module name="code-kata" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="level4.level4_67.*" />
+          <option name="PATTERN" value="level4.level4_73.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="level4.level4_66.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level4.level4_66.Solution" />
+    <configuration name="level4.level4_72.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level4.level4_72.Solution" />
       <module name="code-kata" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="level4.level4_66.*" />
+          <option name="PATTERN" value="level4.level4_72.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="level4.level4_68.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level4.level4_68.Solution" />
+    <configuration name="level4.level4_74.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level4.level4_74.Solution" />
       <module name="code-kata" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="level4.level4_68.*" />
+          <option name="PATTERN" value="level4.level4_74.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="level4.level4_69.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level4.level4_69.Solution" />
+    <configuration name="level4.level4_75.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level4.level4_75.Solution" />
       <module name="code-kata" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="level4.level4_69.*" />
+          <option name="PATTERN" value="level4.level4_75.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="level4.level4_70.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level4.level4_70.Solution" />
+    <configuration name="level4.level4_76.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level4.level4_76.Solution" />
       <module name="code-kata" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="level4.level4_70.*" />
+          <option name="PATTERN" value="level4.level4_76.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.level4.level4_70.Solution" />
-        <item itemvalue="Application.level4.level4_69.Solution" />
-        <item itemvalue="Application.level4.level4_68.Solution" />
+        <item itemvalue="Application.level4.level4_76.Solution" />
+        <item itemvalue="Application.level4.level4_75.Solution" />
+        <item itemvalue="Application.level4.level4_74.Solution" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.level4.level4_66.Solution" />
+        <item itemvalue="Application.level4.level4_72.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -227,7 +231,16 @@
       <workItem from="1702792898128" duration="4533000" />
       <workItem from="1702857841812" duration="598000" />
       <workItem from="1702877853219" duration="16000" />
-      <workItem from="1702944127610" duration="1584000" />
+      <workItem from="1702944127610" duration="3371000" />
+      <workItem from="1702947622279" duration="229000" />
+      <workItem from="1703030569963" duration="5885000" />
+      <workItem from="1703049071556" duration="11000" />
+      <workItem from="1703118156223" duration="2708000" />
+      <workItem from="1703223330689" duration="11000" />
+      <workItem from="1703311494564" duration="9584000" />
+      <workItem from="1703480334916" duration="4725000" />
+      <workItem from="1703519703412" duration="1995000" />
+      <workItem from="1703549301821" duration="2240000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -397,7 +410,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702795247250</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="level 4-70">
+      <option name="closed" value="true" />
+      <created>1702946515406</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1702946515407</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -434,6 +455,7 @@
     <MESSAGE value="level 4-67" />
     <MESSAGE value="level 4-68" />
     <MESSAGE value="level 4-69" />
-    <option name="LAST_COMMIT_MESSAGE" value="level 4-69" />
+    <MESSAGE value="level 4-70" />
+    <option name="LAST_COMMIT_MESSAGE" value="level 4-70" />
   </component>
 </project>
