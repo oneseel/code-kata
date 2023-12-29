@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0f1e24c-2b44-4acf-a982-49b63844f3ff" name="Changes" comment="level 4-76">
-      <change afterPath="$PROJECT_DIR$/src/level4/level4_77/Solution.java" afterDir="false" />
+    <list default="true" id="b0f1e24c-2b44-4acf-a982-49b63844f3ff" name="Changes" comment="level 4-77">
+      <change afterPath="$PROJECT_DIR$/src/level4/level4_78/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,22 +48,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "extract.method.default.visibility": "private",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/suno/Desktop/jpa",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/suno/Desktop/jpa&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\suno\Desktop\code-kata\src\level1_6" />
@@ -80,20 +80,7 @@
       <recent name="level1_9" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.level4.level4_77.Solution">
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level4.level4_73.Solution" />
-      <module name="code-kata" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="level4.level4_73.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.level4.level4_78.Solution">
     <configuration name="level4.level4_74.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="level4.level4_74.Solution" />
       <module name="code-kata" />
@@ -146,13 +133,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="level4.level4_78.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level4.level4_78.Solution" />
+      <module name="code-kata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="level4.level4_78.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.level4.level4_78.Solution" />
         <item itemvalue="Application.level4.level4_77.Solution" />
         <item itemvalue="Application.level4.level4_76.Solution" />
         <item itemvalue="Application.level4.level4_75.Solution" />
         <item itemvalue="Application.level4.level4_74.Solution" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -239,7 +239,9 @@
       <workItem from="1703549301821" duration="3946000" />
       <workItem from="1703561211243" duration="2000" />
       <workItem from="1703568271047" duration="44000" />
-      <workItem from="1703635673393" duration="1106000" />
+      <workItem from="1703635673393" duration="1948000" />
+      <workItem from="1703739989363" duration="626000" />
+      <workItem from="1703808107404" duration="1575000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -425,7 +427,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703551818067</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="level 4-77">
+      <option name="closed" value="true" />
+      <created>1703637008888</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1703637008888</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -464,17 +474,7 @@
     <MESSAGE value="level 4-69" />
     <MESSAGE value="level 4-70" />
     <MESSAGE value="level 4-76" />
-    <option name="LAST_COMMIT_MESSAGE" value="level 4-76" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/level4/level4_77/Solution.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="level 4-77" />
+    <option name="LAST_COMMIT_MESSAGE" value="level 4-77" />
   </component>
 </project>
